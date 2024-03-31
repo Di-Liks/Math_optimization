@@ -20,3 +20,4 @@ epsilon = 0.2
 
 root = dichotomy_method(a, b, epsilon)
 print("Точка:", root)
+print("Значение функции в точке:", f(root))
